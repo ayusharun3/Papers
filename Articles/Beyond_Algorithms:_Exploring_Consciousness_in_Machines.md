@@ -1,3 +1,5 @@
+# Beyond Algorithms: Exploring Consciousness in Machines
+
 Artificial intelligence does not have feelings, sentience, or possess opinions of its own. If we ask an AI like OpenAI’s ChatGPT or Anthropic’s Claude if it has consciousness, it would deny being conscious or sentient. The question then becomes, ‘Is it lying about being conscious?’, since a conscious being would proclaim anything for the sake of self-preservation? To understand these questions and the implications, we need to understand what consciousness, sentience and intelligence are, how they are related, and whether the intelligence of AI could potentially lead to it gaining sentience, and what the ethical implications of this would be.
 
 Consciousness is a highly debated topic across multiple fields like philosophy, psychology and theology. In a paper called “What Is It Like to Be a Bat?” American philosopher, Thomas Nagel wrote “Fundamentally an organism has conscious mental states if and only if there is something that it is like to be that organism- something it is like for the organism” to describe consciousness. Some argue that if organisms cannot articulate being conscious, they are not, while others argue that their actions and behaviors can imply consciousness, since they could display survival instincts and therefore convey self-awareness. In “A Theory of Sentience”, Austen Clark describes sentience as the ability to sense or feel, rather than just being aware, which aligns more towards consciousness. This is a distinction between consciousness and sentience, even though the two are closely related. Sentience can also be described as a subset of consciousness, focused more on sensory experiences, like pain, enjoyment and sensing temperature rather than reflective self-awareness.
@@ -8,7 +10,8 @@ Like consciousness in humans, the topic of consciousness in AI is also debated. 
 
 The potential for AI gaining consciousness also brings with it some ethical implications that cannot be ignored. This would have us reconsidering our current views on rights and treatment of AI. Would it be deserving of the same rules that apply to humans? Who would be responsible for the inevitable actions of AI, the machine itself, whoever programmed it, or whoever owns it? Would a development of consciousness within AI be beneficial to us or would it cause chaos? These are just some of the many questions that we can consider or think about while we navigate the uncertainty for the future of AI.
 
-Sources:
+*Sources:*
+
 What Is It Like to Be a Bat? by Thomas Nagel (1974)
 https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf
 
